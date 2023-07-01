@@ -1,0 +1,70 @@
+
+body{
+
+ background: linear-gradient(0.25turn, #3f87a6, #ebf8e1, #f69d3c);
+}
+
+.logo-series-pro{
+  width: 10%;
+  height: 10%;
+  border-radius: 25%;
+  margin: 10px;
+} 
+.series-pro{
+  width: 25%;
+  height: 25%;
+  border-radius: 5%; 
+  margin: 10px;
+}
+
+@media (min-width: 768px) {
+  /* Estilos responsivos para el tamaño del logo en laptops y dispositivos más grandes */
+  .navbar-logo {
+    width: 40px;
+    height: 40px;
+  }
+}
+
+
+.container button{
+
+  background-color: #f69d3c;
+    display: flex;
+    align-items:center ;
+    justify-content: center;
+    font-family:monospace;
+    font-size: 30px;
+    cursor: pointer;
+  
+}
+
+
+.container-about {
+  margin: 0 auto;
+  text-align: center;
+}
+.pro{
+  width: 50%;
+  
+  border-radius: 5%; 
+  margin: 10px;
+}
+
+
+.card:hover {
+   
+    transform: perspective(500px) rotateY(180deg);
+}
+h1{
+  background-color:red;
+}
+
+h2{
+background-color: #f69d3c;
+}
+
+
+
+h4{
+background-color: red;
+}
