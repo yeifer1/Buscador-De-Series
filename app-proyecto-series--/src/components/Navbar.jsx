@@ -11,7 +11,7 @@ const Navbar = () => {
   return (
     <nav className='navbar navbar-expand-lg navbar-light bg-light' style={{ backgroundColor: 'rgb(0.25turn, #3f87a6, #ebf8e1, #f69d3c)' }}>
       <div className='container'>
-        <img className='logo-series-pro' src='logo-series-pro.jpg' alt='logo' />
+        <img className='logo-series-pro' src='https://i.pinimg.com/originals/c5/5b/f3/c55bf3ccab6cabef37b96b5b6bd65452.jpg' alt='logo' />
         <NavLink className='navbar-brand' to='/'>Series-Pro</NavLink>
 
         <button className='navbar-toggler' type='button' onClick={toggleMenu}>
