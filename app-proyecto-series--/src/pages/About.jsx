@@ -10,14 +10,14 @@ const About = () => {
 
       </p>
       <div>
-        <img className='series-pro' src='https://i.pinimg.com/originals/e7/47/f3/e747f3e9897abbaf366db22e64b835a2.jpg' alt='logo' />
+        <img className='series-pro' src='02sala-pro.png' alt='logo' />
 
       </div>
       <h2>Descubre un universo de entretenimiento en nuestras manos. <br />Navega a través de una biblioteca infinita de series y películas de todos los géneros y para todas las edades.</h2>
 
       <div>
 
-        <img className='series-pro' src='https://i.pinimg.com/originals/5d/e4/69/5de469305202c206c412e57e57a6e3af.jpg' alt='logo' />
+        <img className='series-pro' src='02biblioteca.png' alt='logo' />
       </div>
       <h2 />
 
@@ -27,7 +27,7 @@ const About = () => {
       </h2>
       <div>
 
-        <img className='pro' src='https://i.pinimg.com/originals/28/da/73/28da7369c5267efad3730fb22706d36b.jpg' alt='logo' />s
+        <img className='pro' src='02todos-dispositivos.png' alt='logo' />s
       </div>
 
       <h4>NO TE PIERDAS NI UN SOLO MOMENTO DE TUS SERIES Y PELÍCULAS FAVORITAS. ÚNETE A SERIES PRO HOY Y ADÉNTRATE EN UN MUNDO DE ENTRETENIMIENTO SIN LÍMITES.  </h4>
